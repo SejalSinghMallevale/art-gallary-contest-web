@@ -12,7 +12,7 @@ A React SSR application for artistic people to participate in art contests.
 
 ## Tech Stack
 
-- React (with Vite)
+- React (with Next)
 - TypeScript
 - Tailwind CSS
 - AWS CDK (for deployment)
